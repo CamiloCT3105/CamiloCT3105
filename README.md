@@ -26,11 +26,11 @@
 <div align="center">
   <h2>📊 Estadísticas</h2>
   
-  <!-- GitHub Stats -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CamiloCT3105&show_icons=true&theme=dark&hide_border=true">
+  <!-- GitHub Stats (Incluye organizaciones) -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CamiloCT3105&include_all_commits=true&show_icons=true&theme=dark&hide_border=true">
   
-  <!-- Top Lenguajes -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloCT3105&layout=compact&theme=dark&hide_border=true">
+  <!-- Top Lenguajes (Incluye organizaciones) -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloCT3105&layout=compact&theme=dark&hide_border=true&include_orgs=true">
   
   <!-- Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CamiloCT3105&theme=dark&hide_border=true">
